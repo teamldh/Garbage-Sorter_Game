@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sampah
+  - Sampah_1
+  - Sampah_2
+  - Sampah_3
+  - Anorganik
+  - Organik
+  - B3
+  - Kertas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - gameplay
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: treadmill
+    uniqueID: 2868397209
+    locked: 0
